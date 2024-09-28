@@ -1,1 +1,1 @@
-Hello this is me mastering git
+Hello
